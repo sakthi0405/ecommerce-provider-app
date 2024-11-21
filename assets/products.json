@@ -1,0 +1,73 @@
+[
+    {
+      "id": "p1",
+      "title": "Red Shirt",
+      "description": "A red shirt - it is pretty red!",
+      "price": 29.99,
+      "imageUrl": "https://example.com/products/red_shirt.png"
+    },
+    {
+      "id": "p2",
+      "title": "Blue Jeans",
+      "description": "A nice pair of blue jeans.",
+      "price": 59.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p3",
+      "title": "Green Jacket",
+      "description": "A stylish green jacket for the winter.",
+      "price": 99.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p4",
+      "title": "Black Sneakers",
+      "description": "Comfortable black sneakers for all occasions.",
+      "price": 49.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p5",
+      "title": "White Hoodie",
+      "description": "A cozy white hoodie for cold weather.",
+      "price": 39.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p6",
+      "title": "Yellow T-shirt",
+      "description": "A bright yellow t-shirt for casual outings.",
+      "price": 19.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p7",
+      "title": "Purple Scarf",
+      "description": "A soft and warm purple scarf.",
+      "price": 14.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p8",
+      "title": "Brown Boots",
+      "description": "Sturdy brown boots for hiking and outdoor adventures.",
+      "price": 79.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p9",
+      "title": "Pink Skirt",
+      "description": "A fashionable pink skirt perfect for summer.",
+      "price": 34.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "p10",
+      "title": "Gray Sweatpants",
+      "description": "Comfortable gray sweatpants for lounging.",
+      "price": 24.99,
+      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.SQ0dzS4vfQkNAdhFmEY0CAHaI4&pid=Api&P=0&h=180"
+    }
+  ]
+  
